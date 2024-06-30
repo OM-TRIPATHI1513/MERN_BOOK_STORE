@@ -1,0 +1,51 @@
+.banner .swiper {
+    width: 240px;
+    height: 320px;
+  }
+  
+  .banner .swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  .banner .swiper-slide:nth-child(1n) {
+    background-image: url('src/assets/1.jpg');
+  }
+  
+  .banner .swiper-slide:nth-child(2n) {
+    background-image: url('src/assets/3.jpg');
+  }
+  
+  .banner .swiper-slide:nth-child(3n) {
+    background-image: url('src/assets/4.webp');
+  }
+  
+  .banner  .swiper-slide:nth-child(4n) {
+    background-image: url('src/assets/5.jpg');
+  }
+  
+  .banner .swiper-slide:nth-child(5n) {
+    background-image: url('src/assets/6.jpg');
+  }
+  
+  .banner .swiper-slide:nth-child(6n) {
+    background-image: url('src/assets/7.jpg');
+  }
+  
+  .banner  .swiper-slide:nth-child(7n) {
+    background-image: url('src/assets/8.jpg');
+  }
+  
+  .banner .swiper-slide:nth-child(8n) {
+    background-image: url('src/assets/9.jpg');
+  }
+  .banner .swiper-slide:nth-child(9n) {
+    background-image: url('src/assets/2.png');
+  }
+  
+  

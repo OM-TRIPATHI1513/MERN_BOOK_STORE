@@ -1,0 +1,63 @@
+body {
+    font-family: sans-serif;
+}
+
+.top {
+    margin-top: 8rem;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.faq-container {
+    padding: 20px;
+}
+
+.faq-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.faq-item {
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 0;
+}

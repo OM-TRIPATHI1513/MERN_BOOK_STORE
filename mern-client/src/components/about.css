@@ -1,0 +1,92 @@
+/* About page css */
+.about-page {
+    margin-top: 4rem;
+    background-color: #f2f2f2;
+    padding: 2rem;
+}
+
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hero-image {
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.hero-content {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+p {
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+
+.about-us {
+    margin-top: 2rem;
+}
+
+.our-mission {
+    margin-top: 2rem;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 1rem;
+}
+
+.contact-us {
+    margin-top: 2rem;
+}
+
+.contact-info {
+    margin-top: 1rem;
+}
+
+/* Blog page css */
+/* Style the blog page */
+.blog-page {
+    margin-top: 4rem;
+    padding: 20px;
+}
+
+/* Style the cards */
+.card {
+    margin-bottom: 20px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.card-text {
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
